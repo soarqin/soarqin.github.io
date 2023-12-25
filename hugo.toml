@@ -1,0 +1,4 @@
+baseURL = 'https://soarqin.github.io/'
+theme = 'hugo-ficurinia'
+languageCode = 'zh-CN'
+title = 'Pages of Soar Qin'
