@@ -1,7 +1,8 @@
 +++
 title = '【戴森球计划】用r2modman管理WeGame版戴森球的mod'
 date = 2024-01-05T15:58:38+08:00
-draft = true
+draft = false
+isCJKLanguage = true
 +++
 # 前言
 * 本文介绍用r2modman管理mod的前提下，如何支持WeGame版戴森球计划带mod启动游戏
