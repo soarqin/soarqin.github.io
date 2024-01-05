@@ -9,9 +9,9 @@ isCJKLanguage = true
 * 此方法也可以用于在不开启r2modman的情况下带mod启动游戏
 <!--more-->
 
-# 一、安装r2monman用于管理游戏mod
-1. 因为已经有了很好的专栏文章，所以请移步[此处](https://www.bilibili.com/read/cv26835751/)观看[TTenYX大佬](https://space.bilibili.com/630071255/)完整的安装和使用教程
-2. 然后因为官方的 BepInEx 版本比较低，可能在我们之后的启动方式下和部分使用了较高级的补丁功能的mod有兼容性问题，所以要手动升级一下 BepInEx:
+# 一、安装r2modman用于管理游戏mod
+1. 对于安装和使用r2modman，请移步[此处](https://www.bilibili.com/read/cv26835751/)观看[TTenYX大佬](https://space.bilibili.com/630071255/)完整的安装和使用教程
+2. 因为r2社区的 BepInEx 版本比较低，可能在我们之后的启动方式下和部分使用了较高级的补丁功能的mod有兼容性问题，所以要手动升级一下 BepInEx:
     + 从[这里](https://github.com/bepinex/bepinex/releases/latest)下载最新版的BepInEx(注意下载BepInEx_x64_开头的64位版本)
         - 注意：如果访问有困难，可以用[这个地址](https://mirror.ghproxy.com/github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)直接下载文件(注意这里是5.4.22版本，以后如果有更新可以更换为新的版本号)
     + 在r2modman的`Settings`里点击`Browse profile folder`，将下载的新版本zip解压覆盖到打开的目录内![001](images/001.png)
