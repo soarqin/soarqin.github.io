@@ -8,10 +8,6 @@ isCJKLanguage = true
 r { color: Red }
 </style>
 
-<style>
-r { color: Red }
-</style>
-
 ### 说明
 * 本攻略旨在尽量功利，但是又对新手很友好(尽量先提升自己再攻略boss)地最速达成白金奖杯
 * Steam成就和PSN奖杯是完全一致的，本攻略也等同于Steam全成就攻略
