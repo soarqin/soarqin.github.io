@@ -213,7 +213,7 @@ draft = false
 
 ![配电设备区块](https://jiashu.1win.eu.org/https://raw.githubusercontent.com/soarqin/imgs/refs/heads/images/ff12tza/008.png)
 
-- [8] 2510 gil (100%)
+- [1] 2510 gil (100%)
 - 购买 \***解毒**, \***发声**: 510 gil
 
 ### 第29作业区快
@@ -1009,7 +1009,7 @@ draft = false
 
 ### 幼小水晶的河畔
 
-- 潮湿的信
+- 阅读 **潮湿的信**
 
 ### 游牧民族聚落
 
@@ -1225,7 +1225,7 @@ draft = false
 
 ## 帕拉密纳大峡谷
 
-- 一路向西北进入 **布尔欧密谢司**
+- 一路向东北进入 **布尔欧密谢司**
 
 ## 布尔欧密谢司
 
