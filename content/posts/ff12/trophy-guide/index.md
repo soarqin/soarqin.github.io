@@ -319,7 +319,7 @@ draft = false
 
 ### 基惹士河沿岸北侧
 
-![基惹士河沿岸北侧](https://jiashu.1win.eu.org/https://raw.githubusercontent.com/soarqin/imgs/refs/heads/images/ff12tza/056.png)
+![基惹士河沿岸北侧](https://jiashu.1win.eu.org/https://raw.githubusercontent.com/soarqin/imgs/refs/heads/images/ff12tza/012.png)
 
 - (M) 鸵鸡 (先击杀所有敌人然后1AC)
 
